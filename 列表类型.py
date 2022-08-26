@@ -9,7 +9,7 @@ list=['list','is',123,'a','number']
 list.append('here')         #使用append('here')向列表list的最后一位添加指定元素
 print(list)
 
-#3.inser(index,e)
+#3.insert(index,e)
 list=['list','is',123,'a','number']
 list.insert(0,'now')        #使用insert(0,'now')向列表list的第一位添加指定元素
 print(list)
